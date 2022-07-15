@@ -1,0 +1,27 @@
+{
+  "short_name": "Your Whot",
+  "name": "Your Whot",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#411B20",
+  "scope": "/",
+  "description": "A whot-card game",
+}
