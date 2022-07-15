@@ -18,10 +18,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "http://whot.silasico.cf",
+  "start_url": "https://whot.silasico.cf/",
   "background_color": "#fff",
   "display": "standalone",
-  "theme_color": "#411B20",
+  "theme_color": "#511B20",
   "scope": "/",
   "description": "A whot-card game"
 }
